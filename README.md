@@ -25,3 +25,5 @@ I love dreaming about a utopian world. And, along with it I come up with all sor
 
 - **Code Visualizer**: Flow-charts, invocation graphs, fan-out/fan-in, etc.
 - **Visual Code Editor**: Graphical (non text-based) Interface to write code that transpiles to real text-code.
+- **Dynamics Simulator**: An interactive environment using a _Physics Engine_, to simulate and observe high-school _Dynamics_ problems.
+- **Data Structures Visualizer**: Observe complex data-structures like AVL-trees, Red-Black trees, B-Trees, etc. from a bird's eye view.
